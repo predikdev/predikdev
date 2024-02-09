@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @predikdev
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning React
 - 📫 How to reach me <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lukas-pscheidt/)
